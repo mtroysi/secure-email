@@ -1,0 +1,83 @@
+.reveal .slides section .emoji {
+  font-size: 100px;
+}
+
+.reveal .slides section img[alt*='wanadoo-logo'] {
+  position: absolute;
+  left: 250px;
+  top: 200px;
+  width: 250px;
+}
+
+.reveal .slides section img[alt*='gmail-logo'] {
+  position: absolute;
+  left: 550px;
+  top: 150px;
+  width: 150px;
+}
+
+.reveal .slides ul {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.reveal .slides section img[alt*='green-check'] {
+  width: 50px;
+}
+
+.reveal .slides section img[alt*='red-cross'] {
+  width: 75px;
+}
+
+/* .reveal .slides section.email-providers ul {
+  list-style-type: none;
+  padding: 0;
+} */
+
+.reveal .slides section.email-providers img {
+  margin-bottom: 5em;
+  margin-right: 5em;
+}
+
+.reveal .slides section img[alt*='protonmail-logo'],
+.reveal .slides section img[alt*='posteo-logo'] {
+  width: 500px;
+}
+
+.reveal .slides section img[alt*='protonvpn-logo'] {
+  width: 40px;
+}
+
+.reveal .slides section td {
+  vertical-align: middle;
+}
+
+.reveal .slides section img[alt*='encryption'] {
+  position: absolute;
+  top: 7em;
+  left: 9em;
+}
+
+.reveal .slides section .author {
+  float: right;
+}
+
+.reveal .slides section.recap-slide td {
+  font-size: 0.8em;
+}
+
+.reveal .slides section.recap-slide img[alt*='protonvpn-logo'] {
+  width: 30px;
+}
+
+.reveal .slides section.other-email-providers img {
+  margin-bottom: 1em;
+  margin-right: 1em;
+}
+
+.reveal .slides section img[alt*='ecomail-logo'],
+.reveal .slides section img[alt*='startmail-logo'],
+.reveal .slides section img[alt*='criptext-logo'],
+.reveal .slides section img[alt*='disroot-logo'] {
+  width: 500px;
+}
