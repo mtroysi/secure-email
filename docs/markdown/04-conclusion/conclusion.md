@@ -57,9 +57,8 @@ Changer de messagerie : <b>nécessaire mais pas suffisant</b>
 
 -   Messageries sécurisées : 🪙
 -   Mail à un destinataire sans messagerie sécurisée
--   Chiffrement pas forcément activé par défaut
--   Standards de chiffrement pas compatibles entre eux
 -   Chiffrement : peu accessible "grand public"
+-   Chiffrement pas forcément activé par défaut
 -   Vulnérabilité échange de clés
 
 ##==##

@@ -1,3 +1,3 @@
 <!-- .slide: class="transition" -->
-# **Protéger sa vie privée**
-### **comment choisir sa messagerie mail sécurisée ?**
+# **Depuis 2 ans, je suis la seule à lire mes mails !**
+### **(ou presque...)**

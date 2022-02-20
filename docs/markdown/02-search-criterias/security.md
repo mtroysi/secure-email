@@ -12,14 +12,14 @@ Qu'est-ce qui fait qu'une messagerie est sécurisée ? Quels sont les points à 
 Dépend du siège social de l'entreprise
 
 Attention aux <b>5 eyes</b> !  
-Traité de coopération avec les agences de surveillances US  
+Traité de coopération avec les agences de surveillance US  
 => Conservation obligatoire de vos données & activités
 
--   USA
--   UK
+-   Etats-Unis
+-   Royaume-Uni
 -   Canada
--   Australia
--   New Zealand
+-   Australie
+-   Nouvelle-Zélande
 <!-- .element: class="list-fragment" -->
 
 ##==##

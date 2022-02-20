@@ -11,8 +11,8 @@
 
 .reveal .slides section img[alt*='gmail-logo'] {
   position: absolute;
-  left: 550px;
-  top: 150px;
+  left: 1em;
+  top: 4em;
   width: 150px;
 }
 

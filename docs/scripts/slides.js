@@ -28,7 +28,7 @@ function talk() {
     ...introductionSlides(),
     ...secureEmailSlides(),
     ...searchCriteriasSlides(),
-    ...endangeredSpeciesSlides(),
+    // ...endangeredSpeciesSlides(),
     ...conclusionSlides(),
   ];
   return slides.map((slidePath) => {
