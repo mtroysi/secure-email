@@ -8,21 +8,18 @@
 
 # Récapitulatif
 
-|                         |                         ProtonMail                          | Tutanota | Mailfence  | Posteo  |
-| ----------------------- | :---------------------------------------------------------: | :------: | :--------: | :-----: |
-| Compte gratuit          |                             ✅                              |    ✅    |     ❌     |   ❌    |
-| Formule - chère         |                           5€/mois                           | 1€/mois  | 2,50€/mois | 1€/mois |
-| Formule 10GB            |                          10€/mois                           | 4€/mois  | 7,50€/mois | 3€/mois |
-| Fonctionnalités         | 🗓️ 📂 ![protonvpn-logo](./assets/images/protonvpn-logo.png) |    🗓️    |   🗓️ 📂    |   🗓️    |
-| Service de migration    |                             ✅                              |    ❌    |     ✅     |   ✅    |
-| Juridiction             |                             🇨🇭                              |    🇩🇪    |     🇧🇪     |   🇩🇪    |
-| Chiffrement bout-à-bout |                             ✅                              |    ✅    |     ✅     |   ✅    |
-| Chiffrement metadata    |                             ❌                              |    ❌    |     ❌     |   ✅    |
-| Open-source             |                             ✅                              |    ✅    |     ❌     |   ✅    |
-| Inscription anonyme     |                             ✅                              |    ✅    |     ❌     |   ✅    |
-| 2FA                     |                             ✅                              |    ✅    |     ✅     |   ✅    |
-| Client mail             |                              🪙                              |    ❌    |     🪙      |   ✅    |
-| Application mobile      |                             ✅                              |    ✅    |     ✅     |   ❌    |
+|                        | ProtonMail | Tutanota | Mailfence  | Posteo  |
+| ---------------------- | :--------: | :------: | :--------: | :-----: |
+| Compte gratuit         |     ✅     |    ✅    |     ❌     |   ❌    |
+| Formule - chère        |  5€/mois   | 1€/mois  | 2,50€/mois | 1€/mois |
+| Formule 10GB           |  10€/mois  | 4€/mois  | 7,50€/mois | 3€/mois |
+| Fonctionnalités        |   🗓️ 📂    |    🗓️    |   🗓️ 📂    |   🗓️    |
+| Service de migration   |     ✅     |    ❌    |     ✅     |   ✅    |
+| Juridiction            |     🇨🇭     |    🇩🇪    |     🇧🇪     |   🇩🇪    |
+| Chiffrement end-to-end |     ✅     |    ✅    |     ✅     |   ✅    |
+| Open-source            |     ✅     |    ✅    |     ❌     |   ✅    |
+| Inscription anonyme    |     ✅     |    ✅    |     ❌     |   ✅    |
+| 2FA                    |     ✅     |    ✅    |     ✅     |   ✅    |
 
 Notes:  
 Ce que j'ai choisi : Posteo
@@ -44,22 +41,15 @@ Investissements éthiques & écologiques
 
 ##==##
 
-# C'est bon, je suis protégée !
-
-<span class="center">Non.</span>
-
-##==##
-
 # Les limites
 
 Changer de messagerie : <b>nécessaire mais pas suffisant</b>  
 <br>
 
--   Messageries sécurisées : 🪙
 -   Mail à un destinataire sans messagerie sécurisée
--   Chiffrement : peu accessible "grand public"
--   Chiffrement pas forcément activé par défaut
--   Vulnérabilité échange de clés
+-   Manque d'accessibilité (prix, chiffrement)
+-   Fonctionnalités pas forcément activées par défaut
+<!-- .element: class="list-fragment" -->
 
 ##==##
 

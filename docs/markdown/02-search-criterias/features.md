@@ -6,7 +6,15 @@
 
 # Fonctionnalités
 
-|                      |                         ProtonMail                          | Tutanota | Mailfence | Posteo |
-| -------------------- | :---------------------------------------------------------: | :------: | :-------: | :----: |
-| Fonctionnalités      | 🗓️ 📂 ![protonvpn-logo](./assets/images/protonvpn-logo.png) |    🗓️    |   🗓️ 📂   |   🗓️   |
-| Service de migration |                             ✅                              |    ❌    |    ✅     |   ✅   |
+|                 | ProtonMail | Tutanota | Mailfence | Posteo |
+| --------------- | :--------: | :------: | :-------: | :----: |
+| Fonctionnalités |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
+
+##==##
+
+# Fonctionnalités
+
+|                      | ProtonMail | Tutanota | Mailfence | Posteo |
+| -------------------- | :--------: | :------: | :-------: | :----: |
+| Fonctionnalités      |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
+| Service de migration |     ✅     |    ❌    |    ✅     |   ✅   |

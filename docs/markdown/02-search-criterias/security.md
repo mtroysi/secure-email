@@ -15,11 +15,11 @@ Attention aux <b>5 eyes</b> !
 Traité de coopération avec les agences de surveillance US  
 => Conservation obligatoire de vos données & activités
 
--   Etats-Unis
--   Royaume-Uni
--   Canada
--   Australie
--   Nouvelle-Zélande
+-   🇺🇸 Etats-Unis
+-   🇬🇧 Royaume-Uni
+-   🇨🇦 Canada
+-   🇦🇺 Australie
+-   🇳🇿 Nouvelle-Zélande
 <!-- .element: class="list-fragment" -->
 
 ##==##
@@ -37,12 +37,12 @@ Location siège social ou serveurs ?
 
 # Chiffrement
 
-Chiffrement bout-à-bout : en quoi ça consiste ?
+Chiffrement end-to-end : en quoi ça consiste ?
 
 Le but : seuls l'auteur et le destinataire d'un message peuvent en connaître le contenu
 
 <b>Exemple :</b>  
-Bob and Alice veulent communiquer en privé  
+Bob et Alice veulent communiquer en privé  
 Ils génèrent chacun une paire clé publique / clé privée
 
 ##==##
@@ -88,23 +88,10 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 
 # Chiffrement
 
-Chiffrement bout-à-bout géré nativement par certaines messageries
-
-Certains standards ne chiffrent pas les metadata ! (sujet, expéditeur, destinataire)
-
-Notes:  
-Géré nativement par les messageries protonmail etc. => annuaire partagé
-Réalisable client/gmail mais pas natif et pas complet => metadata
-
-##==##
-
-# Chiffrement
-
 |                         | ProtonMail | Tutanota | Mailfence | Posteo |
 | ----------------------- | :--------: | :------: | :-------: | :----: |
 | Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
-| Chiffrement bout-à-bout |     ✅     |    ✅    |    ✅     |   ✅   |
-| Chiffrement metadata    |     ❌     |    ❌    |    ❌     |   ✅   |
+| Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 
 ##==##
 
@@ -113,8 +100,7 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 |                         | ProtonMail | Tutanota | Mailfence | Posteo |
 | ----------------------- | :--------: | :------: | :-------: | :----: |
 | Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
-| Chiffrement bout-à-bout |     ✅     |    ✅    |    ✅     |   ✅   |
-| Chiffrement metadata    |     ❌     |    ❌    |    ❌     |   ✅   |
+| Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 | Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
 
 ##==##
@@ -124,8 +110,7 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 |                         | ProtonMail | Tutanota | Mailfence | Posteo |
 | ----------------------- | :--------: | :------: | :-------: | :----: |
 | Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
-| Chiffrement bout-à-bout |     ✅     |    ✅    |    ✅     |   ✅   |
-| Chiffrement metadata    |     ❌     |    ❌    |    ❌     |   ✅   |
+| Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 | Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
 | Inscription anonyme     |     ✅     |    ✅    |    ❌     |   ✅   |
 
@@ -136,8 +121,7 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 |                         | ProtonMail | Tutanota | Mailfence | Posteo |
 | ----------------------- | :--------: | :------: | :-------: | :----: |
 | Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
-| Chiffrement bout-à-bout |     ✅     |    ✅    |    ✅     |   ✅   |
-| Chiffrement metadata    |     ❌     |    ❌    |    ❌     |   ✅   |
+| Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 | Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
 | Inscription anonyme     |     ✅     |    ✅    |    ❌     |   ✅   |
 | 2FA                     |     ✅     |    ✅    |    ✅     |   ✅   |

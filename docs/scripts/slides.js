@@ -11,7 +11,7 @@ function searchCriteriasSlides() {
     '02-search-criterias/storage_price.md',
     '02-search-criterias/features.md',
     '02-search-criterias/security.md',
-    '02-search-criterias/usage.md',
+    // '02-search-criterias/usage.md',
   ];
 }
 
