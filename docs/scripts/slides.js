@@ -1,5 +1,5 @@
 function introductionSlides() {
-  return ['00-intro/title.md', '00-intro/morgane_troysi.md'];
+  return ['00-intro/title.md'];
 }
 
 function secureEmailSlides() {
@@ -20,7 +20,7 @@ function endangeredSpeciesSlides() {
 }
 
 function conclusionSlides() {
-  return ['04-conclusion/conclusion.md'];
+  return ['04-conclusion/conclusion.md', '00-intro/morgane_troysi.md'];
 }
 
 function talk() {

@@ -6,9 +6,9 @@
 
 # Fonctionnalités
 
-|                 | ProtonMail | Tutanota | Mailfence | Posteo |
-| --------------- | :--------: | :------: | :-------: | :----: |
-| Fonctionnalités |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
+|              | ProtonMail | Tutanota | Mailfence | Posteo |
+| ------------ | :--------: | :------: | :-------: | :----: |
+| Applications |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
 
 ##==##
 
@@ -16,5 +16,5 @@
 
 |                      | ProtonMail | Tutanota | Mailfence | Posteo |
 | -------------------- | :--------: | :------: | :-------: | :----: |
-| Fonctionnalités      |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
+| Applications         |   🗓️ 📂    |    🗓️    |   🗓️ 📂   |   🗓️   |
 | Service de migration |     ✅     |    ❌    |    ✅     |   ✅   |

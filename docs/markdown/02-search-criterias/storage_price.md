@@ -25,21 +25,25 @@
 
 # Stockage & Prix
 
-Les messageries sécurisées sont rarement gratuites  
-<br>
-La capacité de stockage et le prix sont proportionnels !  
-<br>
-Les comptes gratuits ont des fonctionnalités limitées
-
--   De quelle capacité de stockage ai-je besoin ?
--   Les fonctionnalités limitées sont-elles suffisantes pour mon usage ?
+- 💰 Les messageries sécurisées sont rarement gratuites  
+- 📈 La capacité de stockage et le prix sont proportionnels !  
+- 🚫 Les comptes gratuits ont des fonctionnalités limitées
 <!-- .element: class="list-fragment" -->
 
 Notes:  
 Quel est mon espace de stockage actuel ? : 200Mo, non-sujet
 
 ##==##
+<!-- .slide: class="transition underline"-->
 
+# De quelle capacité de stockage ai-je besoin ?
+
+##==##
+<!-- .slide: class="transition underline"-->
+
+# Les fonctionnalités limitées sont-elles suffisantes pour mon usage ?
+
+##==##
 # Aperçu des prix
 
 |                               | ProtonMail | Tutanota | Mailfence  | Posteo  |

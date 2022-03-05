@@ -1,19 +1,17 @@
 <!-- .slide: class="transition" -->
 
-# Conclusion
+# Récapitulatif
 
 ##==##
 
 <!-- .slide: class="recap-slide" -->
 
-# Récapitulatif
-
 |                        | ProtonMail | Tutanota | Mailfence  | Posteo  |
 | ---------------------- | :--------: | :------: | :--------: | :-----: |
 | Compte gratuit         |     ✅     |    ✅    |     ❌     |   ❌    |
 | Formule - chère        |  5€/mois   | 1€/mois  | 2,50€/mois | 1€/mois |
-| Formule 10GB           |  10€/mois  | 4€/mois  | 7,50€/mois | 3€/mois |
-| Fonctionnalités        |   🗓️ 📂    |    🗓️    |   🗓️ 📂    |   🗓️    |
+| Formule 10GB           |  10€/mois  | 4€/mois  | 7,50€/mois | 3€/mois |  
+| Applications           |   🗓️ 📂    |    🗓️    |   🗓️ 📂    |   🗓️    |
 | Service de migration   |     ✅     |    ❌    |     ✅     |   ✅    |
 | Juridiction            |     🇨🇭     |    🇩🇪    |     🇧🇪     |   🇩🇪    |
 | Chiffrement end-to-end |     ✅     |    ✅    |     ✅     |   ✅    |
@@ -41,7 +39,7 @@ Investissements éthiques & écologiques
 
 ##==##
 
-# Les limites
+# Conclusion
 
 Changer de messagerie : <b>nécessaire mais pas suffisant</b>  
 <br>
@@ -50,9 +48,3 @@ Changer de messagerie : <b>nécessaire mais pas suffisant</b>
 -   Manque d'accessibilité (prix, chiffrement)
 -   Fonctionnalités pas forcément activées par défaut
 <!-- .element: class="list-fragment" -->
-
-##==##
-
-<!-- .slide: class="transition" -->
-
-# Merci !

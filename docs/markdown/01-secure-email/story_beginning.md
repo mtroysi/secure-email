@@ -1,12 +1,7 @@
 # La solution de la facilité
 
 ##==##
-
-# La solution de la facilité
-
-![gmail-logo](./assets/images/gmail-logo.png)
-
-##==##
+<!-- .slide: class="logo-and-list" -->
 # La solution de la facilité
 
 ![gmail-logo](./assets/images/gmail-logo.png)

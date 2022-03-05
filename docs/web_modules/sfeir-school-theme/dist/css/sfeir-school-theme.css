@@ -1751,7 +1751,7 @@ body {
       content: '';
       z-index: -1;
       position: absolute;
-      background: #dd3355;
+      /* background: #dd3355; */
       width: 100%;
       height: 50px;
       left: 0;

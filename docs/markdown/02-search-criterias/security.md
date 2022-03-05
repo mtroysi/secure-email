@@ -11,9 +11,7 @@ Qu'est-ce qui fait qu'une messagerie est sécurisée ? Quels sont les points à 
 
 Dépend du siège social de l'entreprise
 
-Attention aux <b>5 eyes</b> !  
-Traité de coopération avec les agences de surveillance US  
-=> Conservation obligatoire de vos données & activités
+Attention aux <b>5 eyes</b> !
 
 -   🇺🇸 Etats-Unis
 -   🇬🇧 Royaume-Uni
@@ -30,8 +28,6 @@ Traité de coopération avec les agences de surveillance US
 | ----------- | :--------: | :------: | :-------: | :----: |
 | Juridiction |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 
-Notes:
-Location siège social ou serveurs ?
 
 ##==##
 
@@ -39,13 +35,14 @@ Location siège social ou serveurs ?
 
 Chiffrement end-to-end : en quoi ça consiste ?
 
-Le but : seuls l'auteur et le destinataire d'un message peuvent en connaître le contenu
+![encryption](./assets/images/encryption.png)
 
-<b>Exemple :</b>  
-Bob et Alice veulent communiquer en privé  
-Ils génèrent chacun une paire clé publique / clé privée
+Notes:  
+Bob envoie son message à Alice : sur le chemin, le message va passer par différents serveurs, dont ceux du service de messagerie. Même si qqn essaye de lire le message ou d'en partager le contenu à des sociétés tierces, il leur sera impossible de déchiffrer le contenu car seule la clé privée d'Alice peut déchiffrer le message
+Géré nativement par les messageries protonmail etc. => annuaire partagé
+Réalisable client/gmail mais pas natif et pas complet => metadata
 
-##==##
+##--##
 
 # Clé publique et clé privée
 
@@ -63,65 +60,41 @@ Ils génèrent chacun une paire clé publique / clé privée
 
 # Chiffrement
 
-![encryption](./assets/images/encryption.png)
-
-Bob et Alice échangent leur clé publique et démarrent leur conversation chiffrée
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-Le serveur ne peut pas déchiffrer le message => seule Alice a accès au contenu avec sa clé privée !
-
-Notes:  
-Bob envoie son message à Alice : sur le chemin, le message va passer par différents serveurs, dont ceux du service de messagerie. Même si qqn essaye de lire le message ou d'en partager le contenu à des sociétés tierces, il leur sera impossible de déchiffrer le contenu car seule la clé privée d'Alice peut déchiffrer le message
-Géré nativement par les messageries protonmail etc. => annuaire partagé
-Réalisable client/gmail mais pas natif et pas complet => metadata
-
-##==##
-
-# Chiffrement
-
-|                         | ProtonMail | Tutanota | Mailfence | Posteo |
-| ----------------------- | :--------: | :------: | :-------: | :----: |
-| Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
+|                        | ProtonMail | Tutanota | Mailfence | Posteo |
+| ---------------------- | :--------: | :------: | :-------: | :----: |
+| Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
+
 
 ##==##
 
 # Open-source
 
-|                         | ProtonMail | Tutanota | Mailfence | Posteo |
-| ----------------------- | :--------: | :------: | :-------: | :----: |
-| Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
+|                        | ProtonMail | Tutanota | Mailfence | Posteo |
+| ---------------------- | :--------: | :------: | :-------: | :----: |
+| Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
-| Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
+| Open-source            |     ✅     |    ✅    |    ❌     |   ✅   |
 
 ##==##
 
 # Inscription anonyme
 
-|                         | ProtonMail | Tutanota | Mailfence | Posteo |
-| ----------------------- | :--------: | :------: | :-------: | :----: |
-| Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
+|                        | ProtonMail | Tutanota | Mailfence | Posteo |
+| ---------------------- | :--------: | :------: | :-------: | :----: |
+| Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
-| Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
-| Inscription anonyme     |     ✅     |    ✅    |    ❌     |   ✅   |
+| Open-source            |     ✅     |    ✅    |    ❌     |   ✅   |
+| Inscription anonyme    |     ✅     |    ✅    |    ❌     |   ✅   |
 
 ##==##
 
 # Double authentification (2FA)
 
-|                         | ProtonMail | Tutanota | Mailfence | Posteo |
-| ----------------------- | :--------: | :------: | :-------: | :----: |
-| Juridiction             |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
+|                        | ProtonMail | Tutanota | Mailfence | Posteo |
+| ---------------------- | :--------: | :------: | :-------: | :----: |
+| Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
-| Open-source             |     ✅     |    ✅    |    ❌     |   ✅   |
-| Inscription anonyme     |     ✅     |    ✅    |    ❌     |   ✅   |
-| 2FA                     |     ✅     |    ✅    |    ✅     |   ✅   |
+| Open-source            |     ✅     |    ✅    |    ❌     |   ✅   |
+| Inscription anonyme    |     ✅     |    ✅    |    ❌     |   ✅   |
+| 2FA                    |     ✅     |    ✅    |    ✅     |   ✅   |

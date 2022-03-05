@@ -10,10 +10,15 @@
 }
 
 .reveal .slides section img[alt*='gmail-logo'] {
-  position: absolute;
-  left: 1em;
-  top: 4em;
-  width: 150px;
+  width: 5em;
+  float: left;
+  margin-right: 40px;
+}
+
+.reveal .slides section.logo-and-list p {
+  display: inline-flex;
+  vertical-align: top;
+  margin-top: 3em;
 }
 
 .reveal .slides ul {
@@ -63,7 +68,7 @@
 }
 
 .reveal .slides section.recap-slide td {
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 .reveal .slides section.recap-slide img[alt*='protonvpn-logo'] {

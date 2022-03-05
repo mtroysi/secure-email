@@ -1,12 +1,12 @@
 <!-- .slide: class="speaker-slide red" -->
-# Hello there !
+# Merci !
 
 ![speaker](./assets/images/speaker/morgane-troysi/morgane.jpg)
 ![company](./assets/images/speaker/logo-sfeir-blanc.png)
 
 <h2>Morgane <span>Troysi</span></h2>
 
-### FullStack Developer
+### Front Developer
 
 <!-- .element: class="icon-rule icon-first" -->
 
