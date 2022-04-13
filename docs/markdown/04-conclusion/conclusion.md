@@ -39,12 +39,6 @@ Investissements éthiques & écologiques
 
 ##==##
 
+<!-- .slide: class="transition" -->
+
 # Conclusion
-
-Changer de messagerie : <b>nécessaire mais pas suffisant</b>  
-<br>
-
--   Mail à un destinataire sans messagerie sécurisée
--   Manque d'accessibilité (prix, chiffrement)
--   Fonctionnalités pas forcément activées par défaut
-<!-- .element: class="list-fragment" -->
