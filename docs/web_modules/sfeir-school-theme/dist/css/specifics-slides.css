@@ -116,7 +116,7 @@
     font-size: 1.3em; }
     .reveal .slides section[data-background].speaker-slide h2 span {
       padding-right: 15px;
-      background: linear-gradient(to right, #ee0f50ff, #fa8b88ff); }
+      background: linear-gradient(to right, #EB8038, #F0B129); }
   .reveal .slides section[data-background].speaker-slide h3 {
     position: absolute;
     text-transform: inherit;
@@ -297,7 +297,7 @@
   background: rgba(10, 181, 128, 0.6); }
 
 .reveal .backgrounds div.slide-background.transition.bg-pink::after {
-  background: rgba(221, 51, 85, 0.6); }
+  background: rgba(73, 56, 77, 0.6); }
 
 .with-code-dark, .with-code-bg-dark {
   /*

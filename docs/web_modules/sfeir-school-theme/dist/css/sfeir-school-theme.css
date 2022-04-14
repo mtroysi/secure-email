@@ -1431,7 +1431,7 @@ body {
   .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]) thead,
   .reveal .slides section.sfeir-basic-slide:not(.stack):not([class*=transition]) thead,
   .reveal .slides section.sfeir-specific-slide.sfeir-bg-axololt:not(.stack):not([class*=transition]) thead {
-    background-color: #dd3355;
+    background-color: #49384D;
     color: white; }
   .reveal .slides section:not(.sfeir-specific-slide):not(.stack):not([class*=transition]).blue thead,
   .reveal .slides section.sfeir-basic-slide:not(.stack):not([class*=transition]).blue thead,
@@ -1466,7 +1466,7 @@ body {
     content: '';
     width: 40%;
     height: 10px;
-    background-color: #dd3355;
+    background-color: #236148;
     bottom: -30px;
     left: 0; }
   .reveal .slides section.sfeir-basic-slide:not(.stack).blue h1:first-of-type:after, .reveal .slides section.sfeir-basic-slide:not(.stack).blue h2:first-of-type:after,
@@ -1633,7 +1633,7 @@ body {
     font-size: 1.3em; }
     .reveal .slides section[data-background].speaker-slide h2 span {
       padding-right: 15px;
-      background: linear-gradient(to right, #ee0f50ff, #fa8b88ff); }
+      background: linear-gradient(to right, #EB8038, #F0B129); }
   .reveal .slides section[data-background].speaker-slide h3 {
     position: absolute;
     text-transform: inherit;
@@ -1674,7 +1674,7 @@ body {
     border-radius: 400px;
     border-style: solid;
     border-width: 10px;
-    border-color: #dd3355;
+    border-color: #EB8038;
     background-size: cover; }
   .reveal .slides section[data-background].speaker-slide img[alt*=company] {
     position: absolute;
@@ -1719,7 +1719,7 @@ body {
     text-transform: initial;
     padding: 30px;
     width: fit-content;
-    background: linear-gradient(to right, #ee0f50ff, #fa8b88ff);
+    background: linear-gradient(to right, #236148, #1DBFBF);
     transform: rotate(-3deg); }
   .reveal .slides section[class*="transition"].blue h1,
   .reveal .slides section.sfeir-basic-slide[class*="transition"].blue h1,
@@ -1816,7 +1816,7 @@ body {
   background: rgba(10, 181, 128, 0.6); }
 
 .reveal .backgrounds div.slide-background.transition.bg-pink::after {
-  background: rgba(221, 51, 85, 0.6); }
+  background: rgba(73, 56, 77, 0.6); }
 
 .with-code-dark, .with-code-bg-dark {
   /*

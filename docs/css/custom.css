@@ -86,3 +86,11 @@
 .reveal .slides section img[alt*='disroot-logo'] {
   width: 500px;
 }
+
+.reveal .slides section.sfeir-basic-slide:not(.stack):not([class*=transition]) {
+  background-image: url('../assets/images/devoxx-logo.png'), url('../assets/images/fond_ecran_devoxx.png');
+  background-repeat: no-repeat;
+  background-size: 10em, 100%;
+  /* background-position: left bottom; */
+  background-position: 0% 90%, right bottom;
+}

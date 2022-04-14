@@ -72,12 +72,12 @@ class SfeirTheme {
 
 		const map = {
 			'first-slide': `${this.path}images/bg-grey-axololt.png`,
-			'transition': `${this.path}images/bg-grey-axololt.png`,
+			'transition': `${this.path}images/bg-grey-paris-bridge.jpeg`,
 			'school-presentation': `${this.path}images/bg-school.png`,
 			'speaker-slide': `${this.path}images/bg-grey-axololt.png`,
 			'sfeir-slide': `${this.path}images/bg-grey-axololt.png`,
 			'bg-white': `${this.path}images/bg-grey-axololt.png`,
-			'bg-pink': `${this.path}images/bg-grey-axololt.png`,
+			'bg-pink': `${this.path}images/bg-grey-boat-seine.png`,
 			'bg-blue': `${this.path}images/bg-grey-axololt.png`,
 			'bg-green': `${this.path}images/bg-grey-axololt.png`,
 			'sfeir-bg-axololt': `${this.path}images/bg-grey-axololt.png`,
