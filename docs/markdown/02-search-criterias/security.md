@@ -85,7 +85,7 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 | Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 | Open-source            |     ✅     |    ✅    |    ❌     |   ✅   |
-| Inscription anonyme    |     ✅     |    ✅    |    ❌     |   ✅   |
+| Inscription anonyme    |     ✅     |    ✅    |    ✅     |   ✅   |
 
 ##==##
 
@@ -96,5 +96,5 @@ Réalisable client/gmail mais pas natif et pas complet => metadata
 | Juridiction            |     🇨🇭     |    🇩🇪    |    🇧🇪     |   🇩🇪   |
 | Chiffrement end-to-end |     ✅     |    ✅    |    ✅     |   ✅   |
 | Open-source            |     ✅     |    ✅    |    ❌     |   ✅   |
-| Inscription anonyme    |     ✅     |    ✅    |    ❌     |   ✅   |
+| Inscription anonyme    |     ✅     |    ✅    |    ✅     |   ✅   |
 | 2FA                    |     ✅     |    ✅    |    ✅     |   ✅   |

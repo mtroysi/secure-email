@@ -18,6 +18,8 @@
 | Open-source            |     ✅     |    ✅    |     ❌     |   ✅    |
 | Inscription anonyme    |     ✅     |    ✅    |     ✅     |   ✅    |
 | 2FA                    |     ✅     |    ✅    |     ✅     |   ✅    |
+| Client mail            |     🪙     |    ❌    |     🪙     |   ✅    |
+| Application mobile     |     ✅     |    ✅    |     ✅     |   ❌    |
 
 Notes:  
 Ce que j'ai choisi : Posteo
