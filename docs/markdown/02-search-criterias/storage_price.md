@@ -25,44 +25,49 @@
 
 # Stockage & Prix
 
-- 💰 Les messageries sécurisées sont rarement gratuites  
-- 📈 La capacité de stockage et le prix sont proportionnels !  
-- 🚫 Les comptes gratuits ont des fonctionnalités limitées
+-   💰 Les messageries sécurisées sont rarement gratuites
+-   📈 La capacité de stockage et le prix sont proportionnels !
+-   🚫 Les comptes gratuits ont des fonctionnalités limitées
 <!-- .element: class="list-fragment" -->
 
 Notes:  
 Quel est mon espace de stockage actuel ? : 200Mo, non-sujet
 
 ##==##
+
 <!-- .slide: class="transition underline"-->
 
 # De quelle capacité de stockage ai-je besoin ?
 
 ##==##
+
 <!-- .slide: class="transition underline"-->
 
 # Les fonctionnalités limitées sont-elles suffisantes pour mon usage ?
 
 ##==##
+
 # Aperçu des prix
 
-|                               | ProtonMail | Tutanota | Mailfence  | Posteo  |
-| ----------------------------- | :--------: | :------: | :--------: | :-----: |
-| Compte gratuit                |     ✅     |    ✅    |     ❌     |   ❌    |
+|                | ProtonMail | Tutanota | Mailfence | Posteo |
+| -------------- | :--------: | :------: | :-------: | :----: |
+| Compte gratuit |     ✅     |    ✅    |    ❌     |   ❌   |
 
 ##==##
+
 # Aperçu des prix
 
-|                               | ProtonMail | Tutanota | Mailfence  | Posteo  |
-| ----------------------------- | :--------: | :------: | :--------: | :-----: |
-| Compte gratuit                |     ✅     |    ✅    |     ❌     |   ❌    |
-| Formule - chère (500MB - 2GB) |  5€/mois   | 1€/mois  | 2,50€/mois | 1€/mois |
+|                             | ProtonMail | Tutanota | Mailfence  | Posteo  |
+| --------------------------- | :--------: | :------: | :--------: | :-----: |
+| Compte gratuit              |     ✅     |    ✅    |     ❌     |   ❌    |
+| Formule - chère (1GB - 2GB) | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
 
 ##==##
+
 # Aperçu des prix
 
 |                               | ProtonMail | Tutanota | Mailfence  | Posteo  |
 | ----------------------------- | :--------: | :------: | :--------: | :-----: |
 | Compte gratuit                |     ✅     |    ✅    |     ❌     |   ❌    |
-| Formule - chère (500MB - 2GB) |  5€/mois   | 1€/mois  | 2,50€/mois | 1€/mois |
-| Formule 10GB                  |  10€/mois  | 4€/mois  | 7,50€/mois | 3€/mois |
+| Formule - chère (500MB - 2GB) | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
+| Formule 10GB                  | 3,99€/mois | 4€/mois  | 7,50€/mois | 3€/mois |

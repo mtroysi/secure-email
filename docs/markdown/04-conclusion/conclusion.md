@@ -9,8 +9,8 @@
 |                        | ProtonMail | Tutanota | Mailfence  | Posteo  |
 | ---------------------- | :--------: | :------: | :--------: | :-----: |
 | Compte gratuit         |     ✅     |    ✅    |     ❌     |   ❌    |
-| Formule - chère        |  5€/mois   | 1€/mois  | 2,50€/mois | 1€/mois |
-| Formule 10GB           |  10€/mois  | 4€/mois  | 7,50€/mois | 3€/mois |  
+| Formule - chère        | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
+| Formule 10GB           | 3,99€/mois | 4€/mois  | 7,50€/mois | 3€/mois |
 | Applications           |   🗓️ 📂    |    🗓️    |   🗓️ 📂    |   🗓️    |
 | Service de migration   |     ✅     |    ❌    |     ✅     |   ✅    |
 | Juridiction            |     🇨🇭     |    🇩🇪    |     🇧🇪     |   🇩🇪    |
