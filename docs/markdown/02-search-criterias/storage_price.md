@@ -51,7 +51,7 @@ Quel est mon espace de stockage actuel ? : 200Mo, non-sujet
 
 |                | ProtonMail | Tutanota | Mailfence | Posteo |
 | -------------- | :--------: | :------: | :-------: | :----: |
-| Compte gratuit |     ✅     |    ✅    |    ❌     |   ❌   |
+| Compte gratuit |     ✅     |    ✅    |    ✅     |   ❌   |
 
 ##==##
 
@@ -59,15 +59,15 @@ Quel est mon espace de stockage actuel ? : 200Mo, non-sujet
 
 |                             | ProtonMail | Tutanota | Mailfence  | Posteo  |
 | --------------------------- | :--------: | :------: | :--------: | :-----: |
-| Compte gratuit              |     ✅     |    ✅    |     ❌     |   ❌    |
+| Compte gratuit              |     ✅     |    ✅    |     ✅     |   ❌    |
 | Formule - chère (1GB - 2GB) | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
 
 ##==##
 
 # Aperçu des prix
 
-|                               | ProtonMail | Tutanota | Mailfence  | Posteo  |
-| ----------------------------- | :--------: | :------: | :--------: | :-----: |
-| Compte gratuit                |     ✅     |    ✅    |     ❌     |   ❌    |
-| Formule - chère (500MB - 2GB) | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
-| Formule 10GB                  | 3,99€/mois | 4€/mois  | 7,50€/mois | 3€/mois |
+|                             | ProtonMail | Tutanota | Mailfence  | Posteo  |
+| --------------------------- | :--------: | :------: | :--------: | :-----: |
+| Compte gratuit              |     ✅     |    ✅    |     ✅     |   ❌    |
+| Formule - chère (1GB - 2GB) | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
+| Formule 10GB                | 3,99€/mois | 4€/mois  | 7,50€/mois | 3€/mois |

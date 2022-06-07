@@ -8,7 +8,7 @@
 
 |                        | ProtonMail | Tutanota | Mailfence  | Posteo  |
 | ---------------------- | :--------: | :------: | :--------: | :-----: |
-| Compte gratuit         |     ✅     |    ✅    |     ❌     |   ❌    |
+| Compte gratuit         |     ✅     |    ✅    |     ✅     |   ❌    |
 | Formule - chère        | 3,99€/mois | 1€/mois  | 2,50€/mois | 1€/mois |
 | Formule 10GB           | 3,99€/mois | 4€/mois  | 7,50€/mois | 3€/mois |
 | Applications           |   🗓️ 📂    |    🗓️    |   🗓️ 📂    |   🗓️    |
@@ -16,7 +16,7 @@
 | Juridiction            |     🇨🇭     |    🇩🇪    |     🇧🇪     |   🇩🇪    |
 | Chiffrement end-to-end |     ✅     |    ✅    |     ✅     |   ✅    |
 | Open-source            |     ✅     |    ✅    |     ❌     |   ✅    |
-| Inscription anonyme    |     ✅     |    ✅    |     ❌     |   ✅    |
+| Inscription anonyme    |     ✅     |    ✅    |     ✅     |   ✅    |
 | 2FA                    |     ✅     |    ✅    |     ✅     |   ✅    |
 
 Notes:  
