@@ -10,6 +10,6 @@
 -   plein de fonctionnalités
 -   15GB stockage par défaut
 -   Gratuit...
--   mais scanne vos données et les revend (publicités ciblées)
+-   mais scanne vos données
 <!-- .element: class="list-fragment" -->
 
